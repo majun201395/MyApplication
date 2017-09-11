@@ -13,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.e("TAG", "onCreate: asa" );
         Log.e("TAG", "onCreate: 绕弯儿翁任务二" );
 }
+        Log.e("TAG", "onCreate: as大沙地" );
+    }
 }
